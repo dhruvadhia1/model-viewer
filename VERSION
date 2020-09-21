@@ -1,0 +1,21 @@
+commit f0d9b729621b45d9cd54beed277ddceaf9ae98cb
+Author: Emmett Lalish <elalish@google.com>
+Date:   Mon Sep 21 08:32:34 2020 -0700
+
+    Pan example (#1547)
+    
+    * basic pan working
+    
+    * fixed gain
+    
+    * added touch support
+    
+    * added recentering; needs work
+    
+    * fixed touch pan
+    
+    * reformat
+    
+    * fixed test
+    
+    * added docs
